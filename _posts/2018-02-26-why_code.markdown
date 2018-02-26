@@ -1,0 +1,21 @@
+---
+layout: post
+title:      " **Why code?**"
+date:       2018-02-26 19:42:21 +0000
+permalink:  why_code
+---
+
+
+
+
+Blogging has always made me a little nervous. It's so much easier to hide within a conversation when you have someone elses ideas to respond to. Be that as it may, I'm going to promise you that I'll do my absolute best to be honest and accurate. But that's where the challenge comes from when learning something new. Learning code has taught me to be honest because we normally don't get judged on our failures but whether or not we did what it took to fix them. 
+
+I've been a musician and writer all of my life. What made me so passionate about both was the vast room to write and play whatever you wanted. To be able to create my own version of this world that we share. Each thing I could create would change with how I felt or whenever I peeled away a new layer of myself and learned something new underneath it. Learning to code wasn't the first thing I wanted to learn. I didn't know schools like Flatiron existed until a few months ago. It was when I started feeling like I wanted to create something that could help people on a digital plain, that I started searching.
+
+The world of computers and technology is an overwhelmingly fascinating environment. Because there is so much in the world of computers, there is a large connection between people from almost everywhere in the world. It's because of this reason that I fell in love with music and writing. Learning to code is like being handed another canvas to create something new on. Maybe it sounds a little corny to some but if you hated to read, why would you work in a bookstore? Why not be in an environment where you can identify with on a personal level?  Learning to code so far has been challenging but exciting. So, why not code?
+
+
+
+
+
+
