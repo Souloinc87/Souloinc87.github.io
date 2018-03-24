@@ -45,13 +45,13 @@ Now that we have somewhere for our updated elements to be saved, we incorporate 
           
 		array.each do |num|
    
-	       new_array << num * num
+	 new_array << num * num
   
-	     end 
+	  end 
   
-	       new_array
+	   new_array
 
-        end
+     end
 
      
        new_array   #returns => [1, 4, 9, 16, 25]
