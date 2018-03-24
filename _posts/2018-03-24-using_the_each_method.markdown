@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using the .each method "
-date:       2018-03-24 05:10:55 +0000
+date:       2018-03-24 01:10:56 -0400
 permalink:  using_the_each_method
 ---
 
@@ -37,24 +37,24 @@ For example:
 
 Now that we have somewhere for our updated elements to be saved, we incorporate it into our code like this:
 
-         array = [ 1, 2, 3, 4, 5]
+        array = [ 1, 2, 3, 4, 5]
      
          
-	     new_array = [ ]
+	    new_array = [ ]
 
           
-		 array.each do |num|
+		array.each do |num|
    
-	        new_array << num * num
+	       new_array << num * num
   
-	       end 
+	     end 
   
-	      new_array
+	       new_array
 
-         end
+        end
 
      
-		 new_array   #returns => [1, 4, 9, 16, 25]
+       new_array   #returns => [1, 4, 9, 16, 25]
 
 Basically we've shovelled ( << ) our altered elements inside of our empty array in order to get the results of what our code changed. Of course, once you learn this concept using *.map* or *.collect*, it elimates the need to create an empty array altogether.   
 
